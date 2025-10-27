@@ -16,14 +16,6 @@ This guide provides:
 
 It's a living document—contributions, adaptations, and improvements are always welcome.
 
-## Quick Links
-
-- **Read the Guide:** [Live site](https://your-username.github.io/code-club-guide/)
-- **Original collaborative document:** See [`resources/collaborative-document.pdf`](resources/collaborative-document.pdf)
-- **Session slides:** [`resources/slides.pdf`](resources/slides.pdf)
-- **SORTEE Code Club event archive:** [Original repo](https://github.com/SORTEE/CodeClub)
-- **Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help improve this resource
-
 ## Related Resources
 
 - **[SORTEE (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology)](https://sortee.org/)** — Organization dedicated to improving research practices in ecology and evolution  

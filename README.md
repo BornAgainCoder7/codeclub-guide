@@ -53,6 +53,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to propo
 This guide is built using [Quarto](https://quarto.org/).
 
 ### Prerequisites
+
 - Install [Quarto](https://quarto.org/docs/get-started/)
 
 ### Steps
@@ -64,8 +65,11 @@ cd start-your-codeclub-guide
 ```
 
 2. Render the site:
+
 `quarto render`
 
-4. Preview locally:
+3. Preview locally:
+ 
 `quarto preview`
+
 The rendered site will appear in the `docs/` folder, ready to deploy via GitHub Pages.

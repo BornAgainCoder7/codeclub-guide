@@ -1,6 +1,6 @@
 # How to Start Your Own Code Club — Community Guide
 
-Welcome to the SORTEE open guide to starting and running a Code Club. This guide was written by and for the SORTEE and broader coding community.
+Welcome to the SORTEE open guide to starting and running a Code Club. This guide was written by and for the SORTEE and broader coding community during the SORTEE Conference 2025.
 
 ## What is this guide about?
 
@@ -14,7 +14,7 @@ This guide provides:
 - **Solutions to common challenges** like balancing skill levels, finding session ideas, or sustaining motivation  
 - **Resources and links** to existing materials and community examples  
 
-It's a living document—contributions, adaptations, and improvements are always welcome.
+It's a living document! Any contributions or improvements are always welcome (see [CONTRIBUTING](CONTRIBUTING.md)) .
 
 ## Related Resources
 
@@ -46,7 +46,7 @@ We warmly welcome contributions! You can:
 - **Report issues or suggest topics** — open an issue to discuss ideas or missing sections  
 - **Adapt for your institution** — fork this repo, customize for your community, and share back what you learn  
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to propose changes, render the site locally, and collaborate.
+See [CONTRIBUTING](CONTRIBUTING.md) for detailed instructions on how to propose changes, render the site locally, and collaborate.
 
 ## Building the Guide Locally
 

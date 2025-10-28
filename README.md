@@ -71,5 +71,3 @@ cd start-your-codeclub-guide
 3. Preview locally:
  
 `quarto preview`
-
-The rendered site will appear in the `docs/` folder, ready to deploy via GitHub Pages.

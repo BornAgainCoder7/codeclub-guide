@@ -4,6 +4,7 @@ First off, thank you for considering a contribution to this guide! 💙
 
 This is a community resource—built by facilitators, participants, and contributors like you.
 This document provides guidance on how to contribute meaningfully and respectfully. Please take a moment to read it.
+Respect the [SORTEE code of conduct](https://sortee.org/codeofconduct/) to maintain an open, inclusive, and supportive environment.
 
 ## What Can I Contribute?
 

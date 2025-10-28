@@ -8,11 +8,11 @@ This guide collects real experiences, tested strategies, and participant-contrib
 
 This guide provides:
 
-- **Practical advice** on designing, launching, and running a Code Club  
-- **Real tips from facilitators and participants** across universities, research groups, and online communities  
-- **Session formats** (seminars, workshops, hacky hours) and how to choose what fits your group  
+- **Practical advice** on launching and running a Code Club  
+- **Real tips from facilitators and participants** across universities or research institutes, and online communities  
+- **Session formats ideas** (seminars, workshops, hacky hours) and how to choose what fits your group  
 - **Solutions to common challenges** like balancing skill levels, finding session ideas, or sustaining motivation  
-- **Resources and links** to existing materials, tutorials, and community examples  
+- **Resources and links** to existing materials and community examples  
 
 It's a living document—contributions, adaptations, and improvements are always welcome.
 

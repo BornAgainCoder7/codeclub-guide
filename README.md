@@ -20,7 +20,7 @@ It's a living document—contributions, adaptations, and improvements are always
 
 - **[SORTEE (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology)](https://sortee.org/)** — Organization dedicated to improving research practices in ecology and evolution  
 - **[SORTEE Code Club](https://github.com/SORTEE/CodeClub)** — Repository with materials from past Code Club events  
-- **[Slides Unconference Session](https://github.com/SORTEE/CodeClub/tree/main/20251016_SORTEE-Unconference5-CodeClub/slides)** from the October 2025 unconference 
+- **[Unconference Session Slides](https://github.com/SORTEE/CodeClub/tree/main/20251016_SORTEE-Unconference5-CodeClub/slides)** from the October 2025 unconference 
 
 ## Repository Structure
 

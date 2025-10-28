@@ -3,9 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "How to Start Your Own Code Club"
+  title: "How to Start Your Code Club"
+  site-url: "https://yourusername.github.io/your-repo-name"
+  repo-url: "https://github.com/SORTEE/start-your-codeclub-guide"
+  repo-actions: [edit, issue]
   page-navigation: true
-  sidebar: false
 
 format:
   html:

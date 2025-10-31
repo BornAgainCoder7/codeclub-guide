@@ -2,7 +2,7 @@
 title: "How to Start Your Own Code Club"
 author: "Cecilia Baldoni, Saoirse Kelleher, Natalie van Dis, Corné de Groot"
 event: SORTEE Conference 2025 — Unconference Session 5
-date: 16/10/2025
+date: 2025-10-16
 format: 
   html:
     self-contained: true
